@@ -9,5 +9,3 @@ clean_running_mission = False;
 waitUntil {WAImissionconfig};
 diag_log "WAI: Mission Config File Loaded";
 [] ExecVM "\z\addons\dayz_server\WAI\missions\missions.sqf";
-//Custom ammo boxes
-[] ExecVM "\z\addons\dayz_server\WAI\missions\StaticAmmoBoxes.sqf";
