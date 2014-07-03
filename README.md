@@ -18,7 +18,10 @@ This script is written by Markk311 and has been heavily edited by my friend grav
 	allowConnection = true;	
 	~~~~
 	
-	And past the following ***ABOVE*** it
+	And past the following code ***above*** it:
+	
 	~~~~java
 	[] ExecVM "\z\addons\dayz_server\WAI\init.sqf";
 	~~~~
+
+1. Repack your server pbo.
